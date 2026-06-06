@@ -68,7 +68,7 @@ Git / GitHub の学習用に作成したリポジトリです。
 - Git
   - add / commit / push
   - branch
-  - pull request
+  - Pull Request
 - GitHub
   - リポジトリ作成
   - README編集
