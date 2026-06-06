@@ -71,7 +71,7 @@ Git / GitHub の学習用に作成したリポジトリです。
   - Pull Request
 - GitHub
   - リポジトリ作成
-  - README編集
+  - README 編集
   - 共同開発の流れ
 - HTML
   - 基本タグの確認
