@@ -41,22 +41,13 @@
   ⑥テスト記載
   2026-05-29 テスト追記①
 
-# My First Project
-
-Git / GitHub の学習用に作成したリポジトリです。  
-コミット、プッシュ、Pull Request、ファイル管理の練習を目的としています。
-
 ## 目的
 
 - Git の基本操作を学ぶ
 - GitHub でのリポジトリ管理に慣れる
 - HTML や Python ファイルの追加・更新を試す
 
-## 概要
-
-このリポジトリには、学習用のサンプルファイルを配置しています。
-
-### 主なファイル
+## 主なファイル
 - `README.md` : このリポジトリの説明
 - `hello.py` : Python の簡単な出力サンプル
 - `main.py` : Python の簡単な実行ファイル
@@ -94,7 +85,7 @@ Git / GitHub の学習用に作成したリポジトリです。
 
 ## 使い方
 
-### Pythonファイルの実行
+### Python ファイルの実行
 ```bash
 python hello.py
 python main.py
@@ -109,3 +100,5 @@ python main.py
 ## 備考
 
 このリポジトリは学習目的で作成しています。
+
+# 2026/06/04 codespaceのテスト
